@@ -1,0 +1,6 @@
+@Netcore.TallerChallenge.Api_HostAddress = http://localhost:5177
+
+GET {{Netcore.TallerChallenge.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
